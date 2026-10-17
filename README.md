@@ -1,6 +1,9 @@
 Microservices Task
+
 1.Forked the Repo to my Githup
+
 2. Cloned to Local machine
+   
 3. Created Dockerfile
 <img width="433" height="158" alt="image" src="https://github.com/user-attachments/assets/9afed520-62aa-4467-a390-edf06141f83c" />
 
